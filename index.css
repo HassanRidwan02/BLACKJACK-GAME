@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color: darkgreen;
+    color: #fff;
+    text-align: center;
+}
+
+h1{
+    color: orange;
+    margin: 40px 20px 0;
+}
+
+p {
+    margin: 10px 0;
+}
+
+
+button{
+    font-weight: 700;
+    padding: 10px;
+    margin: 5px;
+    color: darkgreen;
+    background-color: orange;
+    border: none;
+}
